@@ -3,3 +3,4 @@ add new line - without PR (tania.z...)
 add new line - without PR (alisa.c...)
 add new line - without PR (chmelmo...)
 add new line - without PR (per4yk.paprika@gmail.com)
+add one more new line - without PR (per4yk.paprika@gmail.com)2
